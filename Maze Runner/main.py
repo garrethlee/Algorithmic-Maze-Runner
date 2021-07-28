@@ -1,3 +1,6 @@
+#ALGORITHMIC MAZE RUNNER
+#Made by Garreth Lee
+
 import pygame
 import random
 import time
