@@ -1,5 +1,5 @@
 #ALGORITHMIC MAZE RUNNER
-#Made by Garreth Lee
+#Made by Garreth Lee (2021)
 
 import pygame
 import random
